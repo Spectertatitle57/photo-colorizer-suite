@@ -41,4 +41,4 @@ Homepage: https://photo-colorizer-suite.softonx.xyz
 ## How to use it
 1. Get the latest release from the download section above.
 2. Unpack the downloaded archive to a folder of your choice.
-3. Run the setup file and follow the on-screen instructions.                    
+3. Run the setup file and follow the on-screen instructions.                     
